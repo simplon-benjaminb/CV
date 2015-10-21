@@ -1,6 +1,19 @@
+body {
+color:black;
+background-color:66FFFF;
+}
+div{
+border:3px solid black;
+width: 25%;
+text-decoration : blink;
+}
+
+
+
 h2
 {
 	color: blue;
+	text-decoration : underline;
 }
 .flotte	{
 float:right;
